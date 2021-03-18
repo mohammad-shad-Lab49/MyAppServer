@@ -1,7 +1,7 @@
 {
   "registeredUsers": [
     { "id": 1, "userName": "kamar", "password" : "12345" },
-    { "id": 2, "userName": "shad", "password" : "54321" },
+    { "id": 2, "userName": "shad", "password" : "54321" }
   ],
 
   "profile": {
