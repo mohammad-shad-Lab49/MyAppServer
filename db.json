@@ -10,29 +10,34 @@
 			"password": "54321"
 		}
 	],
-	"profile": {
-		"name": "kamar"
+	"userProfile": {
+		"firstName": "kamar",
+		"lastName": "shad",
+		"email" : "mohammad.shad@iongroup.com"
 	},
 	"accounts": [{
 			"id": 1,
 			"accountType": "Build Wealth",
 			"currentBalance": 1028223.43,
 			"deposit": 1202,
-			"withdrawl": 102
+			"withdrawl": 102,
+		"currency": "USD"
 		},
 		{
 			"id": 2,
 			"accountType": "Saving",
 			"currentBalance": 102822,
 			"deposit": 1202,
-			"withdrawl": 654
+			"withdrawl": 654,
+			"currency": "USD"
 		},
 		{
 			"id": 3,
 			"accountType": "retirement",
 			"currentBalance": 18223234,
 			"deposit": 1982,
-			"withdrawl": 1092
+			"withdrawl": 1092,
+			"currency": "USD"
 		}
 	]
 }
