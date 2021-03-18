@@ -1,16 +1,38 @@
 {
-  "registeredUsers": [
-    { "id": 1, "userName": "kamar", "password" : "12345" },
-    { "id": 2, "userName": "shad", "password" : "54321" }
-  ],
+	"registeredUsers": [{
+			"id": 1,
+			"userName": "kamar",
+			"password": "12345"
+		},
+		{
+			"id": 2,
+			"userName": "shad",
+			"password": "54321"
+		}
+	],
 
-  "profile": {
-    "name": "kamar shad"
-  }
-  
-   "accounts": [
-    { "accountType": "Build Wealth", "currentBalance": 1028223.43, "deposit" : 1202, "withdrawl": 102 },
-    { "accountType": "Saving", "currentBalance": 102822, "deposit" : 1202, "withdrawl": 654 },
-    { "accountType": "retirement", "currentBalance": 18223234, "deposit" : 1982, "withdrawl": 1092 }
-  ]
+	"profile": {
+		"name": "kamar shad"
+	},
+
+	"accounts": [
+    {
+			"accountType": "Build Wealth",
+			"currentBalance": 1028223.43,
+			"deposit": 1202,
+			"withdrawl": 102
+		},
+		{
+			"accountType": "Saving",
+			"currentBalance": 102822,
+			"deposit": 1202,
+			"withdrawl": 654
+		},
+		{
+			"accountType": "retirement",
+			"currentBalance": 18223234,
+			"deposit": 1982,
+			"withdrawl": 1092
+		}
+	]
 }
